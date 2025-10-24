@@ -1,2 +1,0 @@
-Versão 3.0 do arquivo de testes
-Testando o git revert
