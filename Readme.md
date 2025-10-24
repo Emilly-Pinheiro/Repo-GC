@@ -1,0 +1,1 @@
+Este é um repositório voltado para a realização das atividades propostas na disciplina de Gerência de Configuração.
